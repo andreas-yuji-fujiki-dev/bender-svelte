@@ -1,5 +1,4 @@
 <script lang="ts">
-  // --- NO LOGIC WAS CHANGED ---
   import { Eye, Search } from "lucide-svelte";
 
   import { writable } from "svelte/store";
