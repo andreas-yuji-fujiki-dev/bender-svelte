@@ -13,7 +13,8 @@ It's a practice project focused on creating layouts and consuming APIs with Svel
 
 **Built with:**  
 - SvelteKit  
-- TypeScript  
+- TypeScript
+- Fuse.js
 - Tailwind CSS  
 - And love, of course ❤️😄  
 
